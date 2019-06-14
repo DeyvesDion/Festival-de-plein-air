@@ -1,0 +1,264 @@
+@charset "UTF-8";
+/* font-family: 'Raleway', sans-serif; */
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+
+.logo{
+    
+    font-family: 'Pacifico', cursive;
+    color: #ffffff; 
+}
+
+/*.ban img{
+    height: auto;   
+    max-width: 100%;
+}*/
+
+/* Programme */
+.album {
+    background-color: #000000;
+}
+
+.programme h2 {
+    font-family: 'Monoton', cursive;
+    text-align: center; 
+}
+
+.programme img{
+    height: 450px;
+    transition: .5s ease;
+  backface-visibility: hidden;
+  opacity: 1;
+}
+
+/* Actualité */
+
+.imageMiniature{
+    width: 200px;
+    margin-left: 15px;
+}
+
+/*
+.acitu{
+    width: 90%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.actualite{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    height: auto;
+}
+
+#actualite { 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    
+}
+
+.actualite h2{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.actualite p{
+    font-family: 'Raleway', cursive;
+    text-align: justify;
+}
+
+.actualite article{
+    margin-top: 30px;
+}
+
+*/
+
+/* Information pratique
+
+.miniature{
+    height: auto;
+    background-color: #c9942b;
+    color: #ffffff;
+    
+}
+
+.infoPratique{
+    text-align: justify;
+    margin-top: 20px;
+    height: auto;
+}
+
+.infoPratique h2{
+    font-family: 'Monoton', cursive;
+}
+
+.infoPratique h4{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.caroujsel-innuer{
+    height: auto;
+}
+
+.imageMiniature{
+    width: 200px;
+    margin-left: 15px;
+}
+
+.inufo h4{
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.inifo p {
+    text-align: justify-all;
+    margin-top: 5px;
+    border-right: 10px;
+    
+}
+
+*/
+
+/* Réservation */
+
+.reservation {
+    height: auto;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+#reservation{
+    font-family: 'Monoton', cursive;
+    margin-bottom: 20px;
+}
+
+
+.reservation h2{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+textarea{
+    resize: none;
+}
+
+/* Contact */
+
+.contact {
+    height: auto;
+    margin-top: 20px;
+    background-color: #000000;
+}
+
+#contact{
+    font-family: 'Monoton', cursive;
+}
+
+.contact h2{
+    font-family: 'Monoton', cursive;
+}
+
+ .contact-form{
+    background-color: #c9942b;
+}
+
+.contact-form h2{
+    text-align: center;
+}
+
+
+address{
+    text-align: center;
+}
+
+
+/* Comment venir > Contact */
+
+.commentV h2{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Monoton', cursive;
+    color: #000000;
+}
+
+/* Footer */
+
+.foot{
+    text-align: left;
+    font-family: 'Raleway', cursive;
+    margin-top: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    height: auto;
+}
+
+
+.foot h2{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.foot p{
+    font-family: 'Raleway', cursive;
+    text-align: justify;
+}
+
+.foot article{
+    margin-top: 30px;
+}
+
+.footer{
+    text-align: center;
+    margin-bottom: 0px;
+    
+}
+
+.footer p{
+    font-size: 12px;
+    text-align: center;
+}
+
+
+/* Séparateur */
+
+.separator{
+    height: 3px;
+    width: 15%;
+    border: none;
+    box-shadow: none;
+    background-color:#ffffff;
+}
+
+
+
+/* Bouton top */ 
+
+#topBtn{
+    position: fixed;
+    bottom: 40px;
+    right: 8px;
+    font-size: 22px;
+    width: 50px;
+    height: 50px;
+    background-color: #c9942b;
+    border-color: #000000;
+    cursor: pointer;
+    display: none;
+}
+
+
+
+
+
